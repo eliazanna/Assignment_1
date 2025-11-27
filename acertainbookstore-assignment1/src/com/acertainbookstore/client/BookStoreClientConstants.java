@@ -26,6 +26,12 @@ public final class BookStoreClientConstants {
 	/** The Constant strERR_CLIENT_REQUEST_TIMEOUT. */
 	public static final String STR_ERR_CLIENT_REQUEST_TIMEOUT = "CLIENT_REQUEST_TIMEOUT";
 
+    /** The Constant strERR_CLIENT_RATEBOOKS. */
+    public static final String STR_ERR_CLIENT_RATEBOOKS = "CLIENT_RATEBOOKS";
+
+    /** The Constant strERR_CLIENT_GETTOPRATEDBOOKS. */
+    public static final String STR_ERR_CLIENT_GETTOPRATEDBOOKS = "CLIENT_GETTOPRATEDBOOKS";
+
 	/** The Constant strERR_CLIENT_RESPONSE_DECODING. */
 	public static final String STR_ERR_CLIENT_RESPONSE_DECODING = "CLIENT_RESPONSE_DECODING";
 
